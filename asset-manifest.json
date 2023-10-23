@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aashutosh_portfolio/static/css/main.7f10ac14.chunk.css",
+    "main.js": "/aashutosh_portfolio/static/js/main.4b9bb21f.chunk.js",
+    "main.js.map": "/aashutosh_portfolio/static/js/main.4b9bb21f.chunk.js.map",
+    "runtime~main.js": "/aashutosh_portfolio/static/js/runtime~main.781c68d9.js",
+    "runtime~main.js.map": "/aashutosh_portfolio/static/js/runtime~main.781c68d9.js.map",
+    "static/css/2.c95611d2.chunk.css": "/aashutosh_portfolio/static/css/2.c95611d2.chunk.css",
+    "static/js/2.1950281c.chunk.js": "/aashutosh_portfolio/static/js/2.1950281c.chunk.js",
+    "static/js/2.1950281c.chunk.js.map": "/aashutosh_portfolio/static/js/2.1950281c.chunk.js.map",
+    "static/js/3.4d967416.chunk.js": "/aashutosh_portfolio/static/js/3.4d967416.chunk.js",
+    "static/js/3.4d967416.chunk.js.map": "/aashutosh_portfolio/static/js/3.4d967416.chunk.js.map",
+    "static/js/4.ba5cf164.chunk.js": "/aashutosh_portfolio/static/js/4.ba5cf164.chunk.js",
+    "static/js/4.ba5cf164.chunk.js.map": "/aashutosh_portfolio/static/js/4.ba5cf164.chunk.js.map",
+    "index.html": "/aashutosh_portfolio/index.html",
+    "precache-manifest.d39ff939cde0e8d135c156d933f0e5f2.js": "/aashutosh_portfolio/precache-manifest.d39ff939cde0e8d135c156d933f0e5f2.js",
+    "service-worker.js": "/aashutosh_portfolio/service-worker.js",
+    "static/css/2.c95611d2.chunk.css.map": "/aashutosh_portfolio/static/css/2.c95611d2.chunk.css.map",
+    "static/css/main.7f10ac14.chunk.css.map": "/aashutosh_portfolio/static/css/main.7f10ac14.chunk.css.map",
+    "static/media/Resume.pdf": "/aashutosh_portfolio/static/media/Resume.a6452379.pdf",
+    "static/media/about.aee0f771.png": "/aashutosh_portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.svg": "/aashutosh_portfolio/static/media/avatar.6f37685c.svg",
+    "static/media/blog.fb8ab7f2.png": "/aashutosh_portfolio/static/media/blog.fb8ab7f2.png",
+    "static/media/chatify.7206044e.png": "/aashutosh_portfolio/static/media/chatify.7206044e.png",
+    "static/media/style.css": "/aashutosh_portfolio/static/media/pre.cf8c6935.svg",
+    "static/media/home-main.svg": "/aashutosh_portfolio/static/media/home-main.1aed08b3.svg"
+  }
+}
